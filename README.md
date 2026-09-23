@@ -36,16 +36,6 @@ snake-game/
 
 ### Run Locally
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/<your-username>/snake-game.git
-   cd snake-game
-   ```
-2. Open `index.html` in your browser — that's it, no build step required.
-
-   Or serve it locally:
-   ```bash
-   npx serve .
    ```
 
 ### Deploy on Netlify
