@@ -4,7 +4,7 @@ A classic Snake game built with vanilla HTML, CSS, and JavaScript — no framewo
 
 ## 🎮 Live Demo
 
-[Play it here](#) [https://classicsnakegameweb.netlify.app]
+[Play it here](#) >> https://classicsnakegameweb.netlify.app
 
 ## ✨ Features
 
